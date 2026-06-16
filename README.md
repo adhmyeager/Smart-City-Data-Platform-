@@ -269,7 +269,7 @@ Smart-City-Data-Platform/
 # Screenshots
 
 ## Architecture Diagram
-  <img width="6529" height="4451" alt="smartcity_diagram" src="https://github.com/user-attachments/assets/1dbaaa3f-0f75-4ac2-a875-d39d7d6f0f79" />
+<img width="6529" height="4412" alt="smartcity_diagram" src="https://github.com/user-attachments/assets/cfabc54f-3e40-4e1e-9382-82f3c3ddf67f" />
 ## Power BI Dashboard
 <img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/da6e8747-a105-428d-861e-4631149491df" />
 ## Grafana Monitoring
