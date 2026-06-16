@@ -7,8 +7,7 @@ The platform ingests live vehicle telemetry, weather, traffic, and road-event st
 ---
 
 # Architecture Overview
-<img width="6529" height="4451" alt="smartcity_diagram" src="https://github.com/user-attachments/assets/072ac907-7951-48e5-bd84-cf7212e26492" />
-
+<img width="6529" height="4412" alt="smartcity_diagram" src="https://github.com/user-attachments/assets/c572b0a7-289d-434e-884b-92777bc35c86" />
 
 ## Batch + Real-Time Hybrid Architecture (Lambda-Style)
 
